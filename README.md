@@ -19,22 +19,22 @@
 
 - 유명한 변동 보조 지표를 활용
     
-    ![Untitled](README_img/Untitled 2.png)
+    ![Untitled](README_img/Untitled2.png)
     
     - 볼린저 밴드
     
-    ![Untitled](README_img/Untitled 3.png)
+    ![Untitled](README_img/Untitled3.png)
     
     - RSI
     
-    ![Untitled](README_img/Untitled 4.png)
+    ![Untitled](README_img/Untitled4.png)
     
     - MACD
 
-![Untitled](README_img/Untitled 5.png)
+![Untitled](README_img/Untitled5.png)
 
 ---
 
 ## 3. 결론
 
-![Untitled](README_img/Untitled 6.png)
+![Untitled](README_img/Untitled6.png)
