@@ -11,7 +11,7 @@
 
 ![Untitled](README_img/Untitled.png)
 
-![Untitled](README_img/Untitled 1.png)
+![Untitled](README_img/Untitled1.png)
 
 ---
 
